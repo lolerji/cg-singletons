@@ -1,0 +1,13 @@
+{
+  "name": "com.clonegames.singletons",
+  "version": "1.0.0",
+  "displayName": "CG Singletons",
+  "description": "This package contains classes for creating singleton monobehaviours and .NET objects with inheritence",
+  "unity": "2017.4",
+  "keywords": [
+    "singleton",
+    "Singleton",
+    "scripting",
+    "Scripting"
+  ]
+}
